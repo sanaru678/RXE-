@@ -1,6 +1,6 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
+//                              RXE  𝓫𝔂 සුදු පුතා🌝
 //𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
 //
 //════════════════════════════//
@@ -19,30 +19,30 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
+global.owner = ['94764497078']
+global.premium = ['94764497078']
+global.ownernomer = '94764497078'
+global.ownername = '⚔SANDARU NETHSARA'
+global.botname = 'RXE'
+global.footer = '😎SANDARU NETHSARA.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
+global.myweb = 'https://chat.whatsapp.com/GwXTkdJDeAKFtFpWRSkIzn'
+global.packname = 'RXE💦 '
+global.author = '🎃SANDARU NETHSARA'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','🙂','😲','🥶']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
+    success: 'හරි ✅',
+    admin: 'මේක ඇඩ්මින්ට විතරයි කරන්න පුළුවන්🥲',
+    botAdmin: 'ඇඩ්මින් දිපන්😤',
+    owner: 'මේක කරන්න පුළුවන් බොට්ගෙ අයිතිකරුට පමණි.🫵',
+    group: 'මේක කරන්න පුළුවන් Group වලට විතරයි🤨',
     private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
+    bot: 'බොට්ට විතරයි වැඩ🤥',
+    wait: 'පොඩ්ඩක් හිටපන්😒',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
